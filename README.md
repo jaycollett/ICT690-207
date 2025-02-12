@@ -37,8 +37,6 @@ This repository is a collection of **notes, documents, and code** related to the
 
 │── 💾 code/ # Scripts and automation
 
-│── 📚 resources.md # Additional readings and references
-
 │── 📝 README.md # You are here!
 
 ```
