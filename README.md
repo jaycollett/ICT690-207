@@ -1,23 +1,63 @@
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
 
-* Item 1
-* Item 2
-  * Subitem 1
-  * Subitem 2
+# ICT690-207 – Systems Librarianship
 
-1. First item
-2. Second item
-   1. Subitem 2.1
-   2. Subitem 2.2
+**University of Kentucky** | _Spring 2025_
 
----
+![GitHub repo size](https://img.shields.io/github/repo-size/jaycollett/ICT690-207?color=blue&label=Repo%20Size)&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/jaycollett/ICT690-207?color=green&label=Last%20Updated)&nbsp;![GitHub issues](https://img.shields.io/github/issues/jaycollett/ICT690-207?color=yellow)
+  
 
-Inline code:
+## 📌 **About This Repository**
+
+This repository is a collection of **notes, documents, and code** related to the ICT690-207 course on **Systems Librarianship** at the **University of Kentucky**. It serves as my resource for organizing research, and sharing insights gained throughout the semester.
+
+  
+
+### 🎯 **Objectives**
+
+- 📚 Maintain structured notes on course topics
+
+- 📝 Store assignments and key documents
+
+- 💻 Develop scripts or code related to system automation and library technologies
+
+- 🔍 Explore emerging technologies in systems librarianship
+
+
+
+  
+
+## 📂 **Contents**
+
 ```
-ls -lah
+
+📁 ICT690-207/
+
+│── 📖 notes/ # Lecture notes & research
+
+│── 💾 code/ # Scripts and automation
+
+│── 📚 resources.md # Additional readings and references
+
+│── 📝 README.md # You are here!
+
+```
+
+
+## 🛠️ **Technologies & Tools**
+
+This repository may include the use of:
+
+-  **Programming Languages**: Python, Bash (hopefully zsh), MYSQL
+-  **App Configurations:** According to the syllabus things like WordPress, Omeka, and the Hoha ILS
+-  **Version Control**: Git, GitHub
+-  **Markdown**: For structured documentation, notes, etc.
+---  
+
+1️⃣ **Clone the repository**
+
+```sh
+
+git  clone  https://github.com/jaycollett/ICT690-207.git
+cd  ICT690-207
+
 ```
