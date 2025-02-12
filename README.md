@@ -21,9 +21,6 @@ This repository is a collection of **notes, documents, and code** related to the
 
 - 💻 Develop scripts or code related to system automation and library technologies. Config/installs of applications we'll use this semester.
 
-- 🔍 Explore emerging technologies in systems librarianship
-
-
 
   
 
