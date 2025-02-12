@@ -17,9 +17,9 @@ This repository is a collection of **notes, documents, and code** related to the
 
 - 📚 Maintain structured notes on course topics
 
-- 📝 Store assignments and key documents
+- 📝 Store assignments and any key documents
 
-- 💻 Develop scripts or code related to system automation and library technologies
+- 💻 Develop scripts or code related to system automation and library technologies. Config/installs of applications we'll use this semester.
 
 - 🔍 Explore emerging technologies in systems librarianship
 
