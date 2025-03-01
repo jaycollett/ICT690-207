@@ -21,7 +21,28 @@
 
 - Git aliases are helpful, I was always too lazy to create any bash/zsh aliases for GIT but now I've done so, and it's helpful. 
 ---
-  
+
+### Week 4: GREP (searching)
+
+📌 **Important Takeaways:**
+
+- cat file and pipe into grep, using it can reduce regex needs. For example, grep -i "first" records.marc will find first or even words like "firsthand", etc. regardless of case. -v swapped the search to an inverse, nice.
+- scopus, never used it previously, excellent resource from UK library
+---
+
+### Week 5: APT and YAZ for the win...
+
+📌 **Important Takeaways:**
+
+- fairly well versed with apt and it's functions/use.
+- YAZ, never worked with it but did learn that UK has a connection server: saalck-uky.alma.exlibrisgroup.com:1921/01SAA_UKY
+- yaz-client then open to the server then you can use find commands mixed with the syntax of searching by 1=4 (title), etc.
+- yaz does JSON. using the -m we can capture our search results in a marc file then use yaz-marcdump -o json marcfile > jsonfile
+- yaz-marcdump does xml as well (-o marcxml)
+- if you want to get all results to the file for processing later, you can do (show 1 +XXX) to grab them all
+- library of congress server: z3950.loc.gov:7090/voyager
+
+---
 
 ## 📝 Final Thoughts & Reflections
 
