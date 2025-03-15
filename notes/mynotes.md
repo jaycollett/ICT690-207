@@ -42,6 +42,16 @@
 - if you want to get all results to the file for processing later, you can do (show 1 +XXX) to grab them all
 - library of congress server: z3950.loc.gov:7090/voyager
 
+
+### LAMP Stack!
+
+📌 **Important Takeaways:**
+
+- w3m/elinks is a text browser that I can use from CLI, may be handy versus curl/wget in some cases
+- web url: http://34.148.65.51/
+- command to create a user in cli for mysql: create user 'opacuser'@'localhost' identified by 'abc123!a88Da';
+- export MYSQL_PS1="[\d]> " will give us a nicer mysql CLI prmopt that shows the active db selected by "use"
+
 ---
 
 ## 📝 Final Thoughts & Reflections
