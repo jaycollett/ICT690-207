@@ -168,7 +168,3 @@ Alias /wordpress /var/www/html/wordpress
 </Directory>
 ```
 
-```bash
-# Add your Apache configuration steps here
-```
-
